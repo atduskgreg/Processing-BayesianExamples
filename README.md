@@ -8,6 +8,8 @@ What follows is a description of the sketches contained herein:
 
 Expressed in the classic form of an imperfect test for a rare disease. Calculates all four probabilities possible with the two different test results.
 
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bayes%27_Theorem_MMB_01.jpg/800px-Bayes%27_Theorem_MMB_01.jpg" width="500px" />
+
 ### Bayesian Localization
 
 A demonstration of determining the position of a "robot" in 1 dimension given a set of uncertain sensor readings.
