@@ -12,7 +12,7 @@ Expressed in the classic form of an imperfect test for a rare disease. Calculate
 
 A demonstration of determining the position of a "robot" in 1 dimension given a set of uncertain sensor readings.
 
-<object type="application/x-shockwave-flash" width="400" height="220" data="http://www.flickr.com/apps/video/stewart.swf?v=109786" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=05d2efc992&photo_id=8198296559"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=109786"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=109786" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=05d2efc992&photo_id=8198296559" height="220" width="400"></embed></object>
+[Video here](http://www.flickr.com/photos/unavoidablegrain/8198296559/in/photostream).
 
 This was adapted from Unit 1 of Sebastian Thrun's [Udacity Self-Driving Car class](http://www.udacity.com/overview/Course/cs373/CourseRev/apr2012)
 
