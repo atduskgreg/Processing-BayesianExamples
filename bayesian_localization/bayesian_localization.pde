@@ -12,7 +12,7 @@ float missError = 0.2;
 boolean showPosition = false;
 
 void setup() {
-  size(400, 400);
+  size(400, 220);
   cells = new boolean[numCells];
   probabilities = new float[numCells];
   for (int i = 0; i < cells.length; i++) {
